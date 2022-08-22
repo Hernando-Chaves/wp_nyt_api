@@ -1,0 +1,17 @@
+{
+    "name": "equipo/ny-times-api-wp",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["classes"]
+    },
+    "authors": [
+        {
+            "name": "Hernando J. Chaves"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "5.4.x-dev"
+    }
+}
